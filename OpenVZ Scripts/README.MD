@@ -18,3 +18,6 @@ To Start Container:
 
 To Enter into Container's Console:
 	prlctl enter %containerName%
+
+
+OpenVZ UserGuide : https://docs.openvz.org/openvz_users_guide.pdf
