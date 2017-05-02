@@ -1,6 +1,6 @@
 #OpenVZ Script
 
-- create_container.sh %containerName%
+- create_container.sh %containerName% (Optional)%templateName%
 	Basic container creatation script. 
 	Deploy from standard centos 6 x86_64 template.
 	Change Network from default venet to veth 
